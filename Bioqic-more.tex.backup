@@ -1,0 +1,22 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[utf8]{inputenc}
+
+%opening
+\title{}
+\author{}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+
+\end{abstract}
+
+\section{What is MRe used for}
+
+
+- We want stiffness information for diagnostics
+- Earlier we used palpation (insert picture of palpation)
+
+\end{document}

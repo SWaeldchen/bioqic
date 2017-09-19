@@ -1,0 +1,150 @@
+\pdfminorversion=6
+\documentclass[
+	usepdftitle=false,
+% 	handout,
+% 	notes,
+% 	fleqn,
+	hyperref={
+		pdfauthor={Martin Genzel},
+		pdftitle={Sparse Recovery From Superimposed Non-Linear Sensor Measurements},
+		pdfsubject={Workshop},
+		pdfcreator={LaTeX},
+	}
+]{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage{default}
+
+
+\newcommand{\kl}[1]{\left( #1 \right)}
+\newcommand{\ekl}[1]{\left[ #1 \right]}
+\newcommand{\skl}[1]{\left\{ #1 \right\}}
+\newcommand{\bkl}[1]{\left| #1 \right|}
+
+\newcommand{\tdf}[2]{\frac{\text{d#1}}{\text{d} #2}}
+
+\newcommand{\xb}[1]{\mathbf{x}}
+
+
+%Information to be included in the title page:
+% \title{Anisotropic MRE}
+% \author{Stephan W\"{a}ldchen}
+% \institute{BIOQIC - a cooperation between TU BErlin and Charite}
+% \date{\today}
+%  
+%  
+
+\input{preamble}
+
+\begin{document}
+
+
+\section{What is MRE}
+
+% 
+% \frame{\titlepage}
+
+\input{title}
+
+ 
+\begin{frame}		\frametitle{Why do we want to do MRE?}
+
+\begin{itemize}
+ \item Stiffness is used diagnostically
+ \item MRE: non-invasive technique
+\end{itemize}
+
+\end{frame}
+
+
+\begin{frame}		\frametitle{How does the measuring process work}
+
+\begin{itemize}
+ \item A vibrating pillow
+ \item Reaction of the tissue, 3 component vector field in time and space
+ \item motion encoding gradient
+ \item MRI measurement in 3 spatial directions and 8 time steps
+\end{itemize}
+
+\end{frame}
+
+
+\begin{frame}		\frametitle{Data reconstruction}
+
+
+\begin{align}
+ \mathbf{u} &= \mathbf{u}(\xb,t) \\
+ \mu &=
+\end{align}
+
+
+\begin{equation}
+ \sum_ j \partial_j \kl{ \mu \kl{ \partial_j u_i + \partial_i u_j}} + \partial_i \kl{\lambda \partial_j u_j} = \rho \ddot{u}_i
+\end{equation}
+
+
+\begin{itemize}
+ \item differential equation --> inverse problem
+ \item Problem underdetermined, we need boundary values
+ \item Problem: some regions are close to nodes --> no movement
+ \item Solution: Multi frequency inversion
+ \item Problem: Need to reconstruct the derivatives
+ \item motion encoding gradient
+ \item MRI measurement in 3 spatial directions and 8 time steps
+\end{itemize}
+
+\begin{itemize}
+ \item MRI measurement in 3 spatial directions and 8 time steps and 3 frequencies --> 72 times MRI overhead
+ \item --> reduced resolution
+\end{itemize}
+
+\begin{itemize}
+
+ \item Problem: Need to reconstruct the derivatives
+ \item slight noise can lead to totally wrong derivatives --> inversion is useless
+ \item MRI measurement in 3 spatial directions and 8 time steps
+\end{itemize}
+
+\end{frame}
+
+
+\begin{frame}		\frametitle{Our plan of work}
+
+\begin{itemize}
+ \item Do simuations in 1d: wavelets
+ \item Do simulations in 2d: wavelets, shearlets
+ \item 
+\end{itemize}
+
+\begin{itemize}
+ \item Problem: Need to reconstruct the derivatives
+ \item slight noise can lead to totally wrong derivatives --> inversion is useless
+ \item MRI measurement in 3 spatial directions and 8 time steps --> 
+\end{itemize}
+
+\end{frame}
+
+
+\begin{frame}		\frametitle{What would be nice results}
+
+\begin{itemize}
+ \item Have better resolution of the stiffness map
+ \item Have clinically useful values, at the moment to varying
+ \item Have shorter acquisition times per pixel
+\end{itemize}
+
+\begin{itemize}
+ \item Problem: Need to reconstruct the derivatives
+ \item slight noise can lead to totally wrong derivatives --> inversion is useless
+ \item MRI measurement in 3 spatial directions and 8 time steps --> 
+\end{itemize}
+
+\end{frame}
+
+
+
+
+
+ 
+
+
+\end{document}

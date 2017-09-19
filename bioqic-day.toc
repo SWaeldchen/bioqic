@@ -1,0 +1,6 @@
+\select@language {english}
+\beamer@sectionintoc {1}{Why we need MRE}{3}{0}{1}
+\beamer@sectionintoc {2}{Data Reconstruction and current Problems}{5}{0}{2}
+\beamer@sectionintoc {3}{Denoising Techniques}{6}{0}{3}
+\beamer@sectionintoc {4}{First Experiments}{6}{0}{4}
+\beamer@sectionintoc {5}{What comes next}{7}{0}{5}

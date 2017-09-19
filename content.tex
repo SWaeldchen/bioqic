@@ -1,0 +1,117 @@
+
+
+\section{Why we need MRE}
+
+% 
+% \frame{\titlepage}
+
+
+\begin{frame}		\frametitle{Why do we want to do MRE?}
+
+\begin{itemize}
+ \item Stiffness is used diagnostically
+ \item MRE: non-invasive technique
+\end{itemize}
+
+\end{frame}
+
+
+\begin{frame}		\frametitle{How does the measuring process work}
+
+\begin{itemize}
+ \item A vibrating pillow
+ \item Reaction of the tissue, 3 component vector field in time and space
+ \item motion encoding gradient
+ \item MRI measurement in 3 spatial directions and 8 time steps
+\end{itemize}
+
+\end{frame}
+
+\section{Data Reconstruction and current Problems}
+
+
+\begin{frame}		\frametitle{Data reconstruction}
+
+
+\begin{align}
+ \mathbf{u} &= \mathbf{u}(\xb,t) \\
+ \mu &=
+\end{align}
+
+
+\begin{equation}
+ \sum_ j \partial_j \kl{ \mu \kl{ \partial_j u_i + \partial_i u_j}} + \partial_i \kl{\lambda \partial_j u_j} = \rho \ddot{u}_i
+\end{equation}
+
+
+\begin{itemize}
+ \item differential equation --> inverse problem
+ \item Problem underdetermined, we need boundary values
+ \item Problem: some regions are close to nodes --> no movement
+ \item Solution: Multi frequency inversion
+ \item Problem: Need to reconstruct the derivatives
+ \item motion encoding gradient
+ \item MRI measurement in 3 spatial directions and 8 time steps
+\end{itemize}
+
+\begin{itemize}
+ \item MRI measurement in 3 spatial directions and 8 time steps and 3 frequencies --> 72 times MRI overhead
+ \item --> reduced resolution
+\end{itemize}
+
+\begin{itemize}
+
+ \item Problem: Need to reconstruct the derivatives
+ \item slight noise can lead to totally wrong derivatives --> inversion is useless
+ \item MRI measurement in 3 spatial directions and 8 time steps
+\end{itemize}
+
+\end{frame}
+
+\section{Denoising Techniques}
+
+
+
+\section{First Experiments}
+
+
+\begin{frame}		\frametitle{Our plan of work}
+
+\begin{itemize}
+ \item Do simuations in 1d: wavelets
+ \item Do simulations in 2d: wavelets, shearlets
+ \item 
+\end{itemize}
+
+\begin{itemize}
+ \item Problem: Need to reconstruct the derivatives
+ \item slight noise can lead to totally wrong derivatives --> inversion is useless
+ \item MRI measurement in 3 spatial directions and 8 time steps --> 
+\end{itemize}
+
+\end{frame}
+
+\section{What comes next}
+
+
+\begin{frame}		\frametitle{What would be nice results}
+
+\begin{itemize}
+ \item Have better resolution of the stiffness map
+ \item Have clinically useful values, at the moment to varying
+ \item Have shorter acquisition times per pixel
+\end{itemize}
+
+\begin{itemize}
+ \item Problem: Need to reconstruct the derivatives
+ \item slight noise can lead to totally wrong derivatives --> inversion is useless
+ \item MRI measurement in 3 spatial directions and 8 time steps --> 
+\end{itemize}
+
+\end{frame}
+
+
+
+
+
+ 

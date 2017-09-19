@@ -1,0 +1,43 @@
+\pdfminorversion=6
+\documentclass[
+	usepdftitle=false,
+% 	handout,
+% 	notes,
+% 	fleqn,
+	hyperref={
+		pdfauthor={Stephan Waldchen},
+		pdftitle={BIOQIC-Day-MRE-Denoising},
+		pdfsubject={Workshop},
+		pdfcreator={LaTeX},
+	}
+]{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage{default}
+
+
+\newcommand{\kl}[1]{\left( #1 \right)}
+\newcommand{\ekl}[1]{\left[ #1 \right]}
+\newcommand{\skl}[1]{\left\{ #1 \right\}}
+\newcommand{\bkl}[1]{\left| #1 \right|}
+
+\newcommand{\tdf}[2]{\frac{\text{d#1}}{\text{d} #2}}
+
+\newcommand{\xb}[1]{\mathbf{x}}
+
+
+%Information to be included in the title page:
+% \title{Anisotropic MRE}
+% \author{Stephan W\"{a}ldchen}
+% \institute{BIOQIC - a cooperation between TU BErlin and Charite}
+% \date{\today}
+%  
+%  
+
+\input{preamble}
+
+\begin{document}
+
+\input{title}
+\input{content}
+
+\end{document}
