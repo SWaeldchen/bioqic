@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.7.2)  19 SEP 2017 14:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.7.2)  20 SEP 2017 12:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1750,21 +1750,21 @@ rem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 ) (./bioqic-day.nav)
 (./title.tex
-<Images/AFG.png, id=40, 317.5062pt x 80.2197pt>
+<Images/AFG.png, id=28, 317.5062pt x 80.2197pt>
 File: Images/AFG.png Graphic file (type png)
 <use Images/AFG.png>
 Package pdftex.def Info: Images/AFG.png  used on input line 21. on input line 2
 1.
 Package pdftex.def Info: Requested size: 101.35213pt x 25.6073pt on input line 
 21.
-<Images/BIOQIC-Logo.png, id=42, 287.0725pt x 104.39pt>
+<Images/BIOQIC-Logo.png, id=30, 287.0725pt x 104.39pt>
 File: Images/BIOQIC-Logo.png Graphic file (type png)
 <use Images/BIOQIC-Logo.png>
 Package pdftex.def Info: Images/BIOQIC-Logo.png  used on input line 21. on inpu
 t line 21.
 Package pdftex.def Info: Requested size: 70.4188pt x 25.6073pt on input line 21
 .
-<Images/TU_logo.pdf, id=43, pagebox=cropbox, 4742.41782pt x 3529.24529pt>
+<Images/TU_logo.pdf, id=31, pagebox=cropbox, 4742.41782pt x 3529.24529pt>
 File: Images/TU_logo.pdf Graphic file (type pdf)
 <use Images/TU_logo.pdf>
 Package pdftex.def Info: Images/TU_logo.pdf  used on input line 21. on input li
@@ -1785,80 +1785,198 @@ Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 4
  [2
 
 ]) (./content.tex
-LaTeX Font Info:    Try loading font information for U+msa on input line 16.
+LaTeX Font Info:    Try loading font information for U+msa on input line 33.
 
 (/net/TeXLive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 16.
+LaTeX Font Info:    Try loading font information for U+msb on input line 33.
 
 (/net/TeXLive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 16.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 33.
 
 (/net/TeXLive/2017/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
-line 16.
+line 33.
 
 (/net/TeXLive/2017/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
-LaTeX Font Info:    Try loading font information for U+wasy on input line 16.
+LaTeX Font Info:    Try loading font information for U+wasy on input line 33.
 
 (/net/TeXLive/2017/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 )
+<Images/Elasto-Tissue.pdf, id=56, pagebox=cropbox, 337.58817pt x 373.01465pt>
+File: Images/Elasto-Tissue.pdf Graphic file (type pdf)
+<use Images/Elasto-Tissue.pdf>
+Package pdftex.def Info: Images/Elasto-Tissue.pdf  used on input line 33. on in
+put line 33.
+Package pdftex.def Info: Requested size: 205.37926pt x 226.93527pt on input lin
+e 33.
 File: Images/TU_logo.pdf Graphic file (type pdf)
 <use Images/TU_logo.pdf>
-Package pdftex.def Info: Images/TU_logo.pdf  used on input line 16. on input li
-ne 16.
-Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 1
-6.
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 33. on input li
+ne 33.
+Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 3
+3.
  [3
 
-]
+ <./Images/Elasto-Tissue.pdf>]
+File: Images/Elasto-Tissue.pdf Graphic file (type pdf)
+<use Images/Elasto-Tissue.pdf>
+Package pdftex.def Info: Images/Elasto-Tissue.pdf  used on input line 33. on in
+put line 33.
+Package pdftex.def Info: Requested size: 205.37926pt x 226.93527pt on input lin
+e 33.
 File: Images/TU_logo.pdf Graphic file (type pdf)
 <use Images/TU_logo.pdf>
-Package pdftex.def Info: Images/TU_logo.pdf  used on input line 28. on input li
-ne 28.
-Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 2
-8.
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 33. on input li
+ne 33.
+Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 3
+3.
  [4
 
 ]
+File: Images/Elasto-Tissue.pdf Graphic file (type pdf)
+<use Images/Elasto-Tissue.pdf>
+Package pdftex.def Info: Images/Elasto-Tissue.pdf  used on input line 33. on in
+put line 33.
+Package pdftex.def Info: Requested size: 205.37926pt x 226.93527pt on input lin
+e 33.
 File: Images/TU_logo.pdf Graphic file (type pdf)
 <use Images/TU_logo.pdf>
-Package pdftex.def Info: Images/TU_logo.pdf  used on input line 69. on input li
-ne 69.
-Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 6
-9.
-
-Overfull \vbox (56.14316pt too high) detected at line 69
- []
-
-[5
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 33. on input li
+ne 33.
+Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 3
+3.
+ [5
 
 ]
+File: Images/Elasto-Tissue.pdf Graphic file (type pdf)
+<use Images/Elasto-Tissue.pdf>
+Package pdftex.def Info: Images/Elasto-Tissue.pdf  used on input line 33. on in
+put line 33.
+Package pdftex.def Info: Requested size: 205.37926pt x 226.93527pt on input lin
+e 33.
 File: Images/TU_logo.pdf Graphic file (type pdf)
 <use Images/TU_logo.pdf>
-Package pdftex.def Info: Images/TU_logo.pdf  used on input line 92. on input li
-ne 92.
-Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 9
-2.
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 33. on input li
+ne 33.
+Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 3
+3.
  [6
 
 ]
+File: Images/Elasto-Tissue.pdf Graphic file (type pdf)
+<use Images/Elasto-Tissue.pdf>
+Package pdftex.def Info: Images/Elasto-Tissue.pdf  used on input line 33. on in
+put line 33.
+Package pdftex.def Info: Requested size: 205.37926pt x 226.93527pt on input lin
+e 33.
 File: Images/TU_logo.pdf Graphic file (type pdf)
 <use Images/TU_logo.pdf>
-Package pdftex.def Info: Images/TU_logo.pdf  used on input line 111. on input l
-ine 111.
-Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 1
-11.
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 33. on input li
+ne 33.
+Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 3
+3.
  [7
+
+]
+File: Images/Elasto-Tissue.pdf Graphic file (type pdf)
+<use Images/Elasto-Tissue.pdf>
+Package pdftex.def Info: Images/Elasto-Tissue.pdf  used on input line 33. on in
+put line 33.
+Package pdftex.def Info: Requested size: 205.37926pt x 226.93527pt on input lin
+e 33.
+File: Images/TU_logo.pdf Graphic file (type pdf)
+<use Images/TU_logo.pdf>
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 33. on input li
+ne 33.
+Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 3
+3.
+ [8
+
+]
+<Images/experiment.jpg, id=220, 308.352pt x 140.2038pt>
+File: Images/experiment.jpg Graphic file (type jpg)
+<use Images/experiment.jpg>
+Package pdftex.def Info: Images/experiment.jpg  used on input line 48. on input
+ line 48.
+Package pdftex.def Info: Requested size: 308.06367pt x 140.07507pt on input lin
+e 48.
+File: Images/TU_logo.pdf Graphic file (type pdf)
+<use Images/TU_logo.pdf>
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 48. on input li
+ne 48.
+Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 4
+8.
+ [9
+
+ <./Images/experiment.jpg>]
+File: Images/experiment.jpg Graphic file (type jpg)
+<use Images/experiment.jpg>
+Package pdftex.def Info: Images/experiment.jpg  used on input line 48. on input
+ line 48.
+Package pdftex.def Info: Requested size: 308.06367pt x 140.07507pt on input lin
+e 48.
+File: Images/TU_logo.pdf Graphic file (type pdf)
+<use Images/TU_logo.pdf>
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 48. on input li
+ne 48.
+Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 4
+8.
+ [10
+
+]
+File: Images/experiment.jpg Graphic file (type jpg)
+<use Images/experiment.jpg>
+Package pdftex.def Info: Images/experiment.jpg  used on input line 48. on input
+ line 48.
+Package pdftex.def Info: Requested size: 308.06367pt x 140.07507pt on input lin
+e 48.
+File: Images/TU_logo.pdf Graphic file (type pdf)
+<use Images/TU_logo.pdf>
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 48. on input li
+ne 48.
+Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 4
+8.
+ [11
+
+]
+File: Images/TU_logo.pdf Graphic file (type pdf)
+<use Images/TU_logo.pdf>
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 67. on input li
+ne 67.
+Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 6
+7.
+
+[12
+
+] [13
+
+]
+File: Images/TU_logo.pdf Graphic file (type pdf)
+<use Images/TU_logo.pdf>
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 117. on input l
+ine 117.
+Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 1
+17.
+ [14
+
+]
+File: Images/TU_logo.pdf Graphic file (type pdf)
+<use Images/TU_logo.pdf>
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 136. on input l
+ine 136.
+Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 1
+36.
+ [15
 
 ])
 \tf@nav=\write6
@@ -1875,17 +1993,24 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 43.
  (./bioqic-day.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 43.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 43.
-Package rerunfilecheck Info: File `bioqic-day.out' has not changed.
-(rerunfilecheck)             Checksum: BBEA76C87AB4A262171421FFF8F46EC5;282.
+
+
+Package rerunfilecheck Warning: File `bioqic-day.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `bioqic-day.out':
+(rerunfilecheck)             Before: 6CD4261F73E23304253498FD15BD952F;125
+(rerunfilecheck)             After:  BBEA76C87AB4A262171421FFF8F46EC5;282.
  ) 
 Here is how much of TeX's memory you used:
- 33521 strings out of 494166
- 681970 string characters out of 6165041
- 788463 words of memory out of 5000000
- 36188 multiletter control sequences out of 15000+600000
+ 33533 strings out of 494166
+ 682270 string characters out of 6165041
+ 785463 words of memory out of 5000000
+ 36181 multiletter control sequences out of 15000+600000
  547626 words of font info for 79 fonts, out of 8000000 for 9000
  523 hyphenation exceptions out of 8191
- 56i,15n,70p,10416b,675s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,15n,70p,10416b,758s stack positions out of 5000i,500n,10000p,200000b,80000s
 </net/TeXLive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></net
 /TeXLive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></net/TeXLiv
 e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></net/TeXLive/2017/
@@ -1894,11 +2019,12 @@ ist/fonts/type1/public/amsfonts/cm/cmss8.pfb></net/TeXLive/2017/texmf-dist/font
 s/type1/public/amsfonts/cm/cmssbx10.pfb></net/TeXLive/2017/texmf-dist/fonts/typ
 e1/public/amsfonts/cm/cmssi10.pfb></net/TeXLive/2017/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmssi8.pfb></net/TeXLive/2017/texmf-dist/fonts/type1/public/ams
-fonts/symbols/msam10.pfb>
-Output written on bioqic-day.pdf (7 pages, 150374 bytes).
+fonts/cm/cmsy10.pfb></net/TeXLive/2017/texmf-dist/fonts/type1/public/amsfonts/s
+ymbols/msam10.pfb>
+Output written on bioqic-day.pdf (15 pages, 1806625 bytes).
 PDF statistics:
- 144 PDF objects out of 1000 (max. 8388607)
- 109 compressed objects within 2 object streams
- 20 named destinations out of 1000 (max. 500000)
- 122 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 315 PDF objects out of 1000 (max. 8388607)
+ 222 compressed objects within 3 object streams
+ 36 named destinations out of 1000 (max. 500000)
+ 108 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -5,24 +5,44 @@
 % 
 % \frame{\titlepage}
 
+\begin{frame}[t]{Why do we need MRE?}
 
-\begin{frame}		\frametitle{Why do we want to do MRE?}
+% \vspace{-\baselineskip}
+% \begin{center}
+% 	\define{Environmental monitoring problems} are of great \\ importance in many practical applications.
+% \end{center}
 
-\begin{itemize}
- \item Stiffness is used diagnostically
- \item MRE: non-invasive technique
-\end{itemize}
+% \vspace{.5\baselineskip}
+
+\begin{columns}[T]
+\column{.4\textwidth}
+  \begin{itemize}
+    \item<2-> diseased tissue changes mechanical
+    \item<3-> low tech: palpation
+    \item<4-> higher tech: ultrasound
+    \item<5-> highest tech: MRE
+    \item<6-> for deep tissue and brains, but non-invasive
+  \end{itemize}
+\column{.6\textwidth}
+
+ 	\vspace{-0.5cm}
+	\includegraphics[width=\textwidth]{Images/Elasto-Tissue.pdf}
+
+\end{columns}
 
 \end{frame}
 
 
-\begin{frame}		\frametitle{How does the measuring process work}
+
+\begin{frame}{How does the measuring process work}
+
+\begin{figure}
+\includegraphics[width=0.9\textwidth]{Images/experiment.jpg}
+\centering\end{figure}
 
 \begin{itemize}
- \item A vibrating pillow
- \item Reaction of the tissue, 3 component vector field in time and space
- \item motion encoding gradient
- \item MRI measurement in 3 spatial directions and 8 time steps
+ \item<2-> 3 spatial directions $\times$ 8 time steps $\times$ 3 frequencies
+ \item<3-> 72 times longer per pixel than MRI 
 \end{itemize}
 
 \end{frame}
@@ -42,6 +62,15 @@
 \begin{equation}
  \sum_ j \partial_j \kl{ \mu \kl{ \partial_j u_i + \partial_i u_j}} + \partial_i \kl{\lambda \partial_j u_j} = \rho \ddot{u}_i
 \end{equation}
+
+\begin{equation}
+ A\mathbf{\mu} = \mathbf{b}
+\end{equation}
+
+
+\end{frame}
+
+\begin{frame}{Underdetermined System}
 
 
 \begin{itemize}
