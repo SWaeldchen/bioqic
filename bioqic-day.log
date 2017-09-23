@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.7.2)  23 SEP 2017 19:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.7.2)  23 SEP 2017 20:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2011,153 +2011,150 @@ Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 8
  [17
 
  <./Images/noisyBrain.png>]
-<Images/Daubechies.png, id=297, 361.35pt x 252.945pt>
-File: Images/Daubechies.png Graphic file (type png)
-<use Images/Daubechies.png>
-Package pdftex.def Info: Images/Daubechies.png  used on input line 108. on inpu
-t line 108.
-Package pdftex.def Info: Requested size: 171.14764pt x 119.80275pt on input lin
-e 108.
 File: Images/TU_logo.pdf Graphic file (type pdf)
 <use Images/TU_logo.pdf>
-Package pdftex.def Info: Images/TU_logo.pdf  used on input line 108. on input l
-ine 108.
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 123. on input l
+ine 123.
 Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 1
-08.
+23.
  [18
+
+]
+File: Images/TU_logo.pdf Graphic file (type pdf)
+<use Images/TU_logo.pdf>
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 123. on input l
+ine 123.
+Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 1
+23.
+ [19
+
+]
+<Images/Daubechies.png, id=310, 361.35pt x 252.945pt>
+File: Images/Daubechies.png Graphic file (type png)
+<use Images/Daubechies.png>
+Package pdftex.def Info: Images/Daubechies.png  used on input line 123. on inpu
+t line 123.
+Package pdftex.def Info: Requested size: 171.14764pt x 119.80275pt on input lin
+e 123.
+File: Images/TU_logo.pdf Graphic file (type pdf)
+<use Images/TU_logo.pdf>
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 123. on input l
+ine 123.
+Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 1
+23.
+ [20
 
  <./Images/Daubechies.png (PNG copy)>]
 File: Images/Daubechies.png Graphic file (type png)
 <use Images/Daubechies.png>
-Package pdftex.def Info: Images/Daubechies.png  used on input line 108. on inpu
-t line 108.
+Package pdftex.def Info: Images/Daubechies.png  used on input line 123. on inpu
+t line 123.
 Package pdftex.def Info: Requested size: 171.14764pt x 119.80275pt on input lin
-e 108.
+e 123.
 File: Images/TU_logo.pdf Graphic file (type pdf)
 <use Images/TU_logo.pdf>
-Package pdftex.def Info: Images/TU_logo.pdf  used on input line 108. on input l
-ine 108.
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 123. on input l
+ine 123.
 Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 1
-08.
- [19
-
-]
-File: Images/Daubechies.png Graphic file (type png)
-<use Images/Daubechies.png>
-Package pdftex.def Info: Images/Daubechies.png  used on input line 108. on inpu
-t line 108.
-Package pdftex.def Info: Requested size: 171.14764pt x 119.80275pt on input lin
-e 108.
-File: Images/TU_logo.pdf Graphic file (type pdf)
-<use Images/TU_logo.pdf>
-Package pdftex.def Info: Images/TU_logo.pdf  used on input line 108. on input l
-ine 108.
-Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 1
-08.
- [20
-
-]
-File: Images/Daubechies.png Graphic file (type png)
-<use Images/Daubechies.png>
-Package pdftex.def Info: Images/Daubechies.png  used on input line 108. on inpu
-t line 108.
-Package pdftex.def Info: Requested size: 171.14764pt x 119.80275pt on input lin
-e 108.
-File: Images/TU_logo.pdf Graphic file (type pdf)
-<use Images/TU_logo.pdf>
-Package pdftex.def Info: Images/TU_logo.pdf  used on input line 108. on input l
-ine 108.
-Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 1
-08.
+23.
  [21
 
 ]
 <Images/shearlet.jpeg, id=324, 584.1825pt x 263.98625pt>
 File: Images/shearlet.jpeg Graphic file (type jpg)
 <use Images/shearlet.jpeg>
-Package pdftex.def Info: Images/shearlet.jpeg  used on input line 108. on input
- line 108.
+Package pdftex.def Info: Images/shearlet.jpeg  used on input line 123. on input
+ line 123.
 Package pdftex.def Info: Requested size: 205.37926pt x 92.80743pt on input line
- 108.
+ 123.
 File: Images/TU_logo.pdf Graphic file (type pdf)
 <use Images/TU_logo.pdf>
-Package pdftex.def Info: Images/TU_logo.pdf  used on input line 108. on input l
-ine 108.
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 123. on input l
+ine 123.
 Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 1
-08.
+23.
  [22
 
- <./Images/shearlet.jpeg>] [23
+ <./Images/shearlet.jpeg>]
+File: Images/TU_logo.pdf Graphic file (type pdf)
+<use Images/TU_logo.pdf>
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 123. on input l
+ine 123.
+Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 1
+23.
+ [23
+
+] [24
 
 ]
-<Images/waveDenoising.pdf, id=338, pagebox=cropbox, 518.14783pt x 444.06534pt>
+<Images/waveDenoising.pdf, id=352, pagebox=cropbox, 518.14783pt x 444.06534pt>
 File: Images/waveDenoising.pdf Graphic file (type pdf)
 <use Images/waveDenoising.pdf>
-Package pdftex.def Info: Images/waveDenoising.pdf  used on input line 177. on i
-nput line 177.
+Package pdftex.def Info: Images/waveDenoising.pdf  used on input line 189. on i
+nput line 189.
 Package pdftex.def Info: Requested size: 239.60567pt x 205.34988pt on input lin
-e 177.
- [24
+e 189.
+
+[25
 
  <./Images/waveDenoising.pdf>]
-<Images/littleSpikes.pdf, id=360, pagebox=cropbox, 903.10641pt x 562.80307pt>
+<Images/littleSpikes.pdf, id=375, pagebox=cropbox, 903.10641pt x 562.80307pt>
 File: Images/littleSpikes.pdf Graphic file (type pdf)
 <use Images/littleSpikes.pdf>
-Package pdftex.def Info: Images/littleSpikes.pdf  used on input line 185. on in
-put line 185.
+Package pdftex.def Info: Images/littleSpikes.pdf  used on input line 197. on in
+put line 197.
 Package pdftex.def Info: Requested size: 273.83728pt x 170.64563pt on input lin
-e 185.
- [25
-
- <./Images/littleSpikes.pdf>]
-<Images/muCorrupted.pdf, id=376, pagebox=cropbox, 1208.45888pt x 764.61465pt>
-File: Images/muCorrupted.pdf Graphic file (type pdf)
-<use Images/muCorrupted.pdf>
-Package pdftex.def Info: Images/muCorrupted.pdf  used on input line 193. on inp
-ut line 193.
-Package pdftex.def Info: Requested size: 273.83728pt x 173.2559pt on input line
- 193.
+e 197.
  [26
 
+ <./Images/littleSpikes.pdf>]
+<Images/muCorrupted.pdf, id=390, pagebox=cropbox, 1208.45888pt x 764.61465pt>
+File: Images/muCorrupted.pdf Graphic file (type pdf)
+<use Images/muCorrupted.pdf>
+Package pdftex.def Info: Images/muCorrupted.pdf  used on input line 205. on inp
+ut line 205.
+Package pdftex.def Info: Requested size: 273.83728pt x 173.2559pt on input line
+ 205.
+ [27
+
  <./Images/muCorrupted.pdf>]
-<Images/littleSpikesClose.pdf, id=391, pagebox=cropbox, 903.10641pt x 562.80307
+<Images/littleSpikesClose.pdf, id=405, pagebox=cropbox, 903.10641pt x 562.80307
 pt>
 File: Images/littleSpikesClose.pdf Graphic file (type pdf)
 <use Images/littleSpikesClose.pdf>
-Package pdftex.def Info: Images/littleSpikesClose.pdf  used on input line 200. 
-on input line 200.
+Package pdftex.def Info: Images/littleSpikesClose.pdf  used on input line 212. 
+on input line 212.
 Package pdftex.def Info: Requested size: 273.83728pt x 170.64563pt on input lin
-e 200.
- [27
+e 212.
+ [28
 
  <./Images/littleSpikesClose.pdf>]
-<Images/derivative.pdf, id=400, pagebox=cropbox, 1225.85431pt x 764.61465pt>
+<Images/derivative.pdf, id=414, pagebox=cropbox, 1225.85431pt x 764.61465pt>
 File: Images/derivative.pdf Graphic file (type pdf)
 <use Images/derivative.pdf>
-Package pdftex.def Info: Images/derivative.pdf  used on input line 207. on inpu
-t line 207.
+Package pdftex.def Info: Images/derivative.pdf  used on input line 219. on inpu
+t line 219.
 Package pdftex.def Info: Requested size: 273.83728pt x 170.79416pt on input lin
-e 207.
- [28
+e 219.
+ [29
 
  <./Images/derivative.pdf>]
 File: Images/TU_logo.pdf Graphic file (type pdf)
 <use Images/TU_logo.pdf>
-Package pdftex.def Info: Images/TU_logo.pdf  used on input line 227. on input l
-ine 227.
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 239. on input l
+ine 239.
 Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 2
-27.
-
-[29
+39.
+ [30
 
 ]
 File: Images/TU_logo.pdf Graphic file (type pdf)
 <use Images/TU_logo.pdf>
-Package pdftex.def Info: Images/TU_logo.pdf  used on input line 246. on input l
-ine 246.
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 258. on input l
+ine 258.
 Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 2
-46.
- [30
+58.
+ [31
 
 ])
 \tf@nav=\write6
@@ -2178,13 +2175,13 @@ Package rerunfilecheck Info: File `bioqic-day.out' has not changed.
 (rerunfilecheck)             Checksum: B6284E595A415220956BF8E2F97ABAE1;227.
  ) 
 Here is how much of TeX's memory you used:
- 33688 strings out of 494166
- 684948 string characters out of 6165041
- 786688 words of memory out of 5000000
- 36293 multiletter control sequences out of 15000+600000
- 554704 words of font info for 102 fonts, out of 8000000 for 9000
+ 33714 strings out of 494166
+ 685669 string characters out of 6165041
+ 787688 words of memory out of 5000000
+ 36317 multiletter control sequences out of 15000+600000
+ 555011 words of font info for 103 fonts, out of 8000000 for 9000
  523 hyphenation exceptions out of 8191
- 56i,15n,70p,10416b,758s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,18n,70p,10416b,758s stack positions out of 5000i,500n,10000p,200000b,80000s
 </net/TeXLive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></net
 /TeXLive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></net/TeXLiv
 e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></net/TeXLive/2017
@@ -2197,10 +2194,10 @@ sfonts/cm/cmssi8.pfb></net/TeXLive/2017/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb></net/TeXLive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
 6.pfb></net/TeXLive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></
 net/TeXLive/2017/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on bioqic-day.pdf (30 pages, 2684060 bytes).
+Output written on bioqic-day.pdf (31 pages, 2686651 bytes).
 PDF statistics:
- 484 PDF objects out of 1000 (max. 8388607)
- 352 compressed objects within 4 object streams
- 65 named destinations out of 1000 (max. 500000)
- 164 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 500 PDF objects out of 1000 (max. 8388607)
+ 363 compressed objects within 4 object streams
+ 67 named destinations out of 1000 (max. 500000)
+ 188 words of extra memory for PDF output out of 10000 (max. 10000000)
 
