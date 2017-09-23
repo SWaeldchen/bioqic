@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.7.2)  20 SEP 2017 12:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.7.2)  23 SEP 2017 19:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -972,7 +972,21 @@ Now handling font encoding PD1 ...
     University of New England, Australia
     Email: zhuhan@neumann.une.edu.au
 )
-(./preamble.tex (/net/TeXLive/2017/texmf-dist/tex/latex/xargs/xargs.sty
+\sympureletters=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
+ut line 18.
+
+(/net/TeXLive/2017/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup7
+\symboldletters=\mathgroup8
+\symboldsymbols=\mathgroup9
+\symboldpureletters=\mathgroup10
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+) (./preamble.tex
+(/net/TeXLive/2017/texmf-dist/tex/latex/xargs/xargs.sty
 Package: xargs 2008/03/22 v1.1  extended macro definitions  (mpg)
 
 (/net/TeXLive/2017/texmf-dist/tex/latex/xkeyval/xkeyval.sty
@@ -1527,21 +1541,7 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 )
 (/net/TeXLive/2017/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
 Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
-\symrsfs=\mathgroup6
-)
-\sympureletters=\mathgroup7
-LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 79.
-
-(/net/TeXLive/2017/texmf-dist/tex/latex/tools/bm.sty
-Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
-\symboldoperators=\mathgroup8
-\symboldletters=\mathgroup9
-\symboldsymbols=\mathgroup10
-\symboldpureletters=\mathgroup11
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
-LaTeX Info: Redefining \bm on input line 207.
+\symrsfs=\mathgroup11
 )
 (/net/TeXLive/2017/texmf-dist/tex/latex/doublestroke/dsfont.sty
 Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
@@ -1571,20 +1571,20 @@ ver.sty)
 ) (./bioqic-day.aux)
 \openout1 = `bioqic-day.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 38.
-LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 41.
+LaTeX Font Info:    ... okay on input line 41.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1652,7 +1652,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box107
-Package hyperref Info: Link coloring OFF on input line 38.
+Package hyperref Info: Link coloring OFF on input line 41.
 
 (/net/TeXLive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1662,68 +1662,68 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count351
 )
-LaTeX Info: Redefining \ref on input line 38.
-LaTeX Info: Redefining \pageref on input line 38.
-LaTeX Info: Redefining \nameref on input line 38.
+LaTeX Info: Redefining \ref on input line 41.
+LaTeX Info: Redefining \pageref on input line 41.
+LaTeX Info: Redefining \nameref on input line 41.
 
 (./bioqic-day.out) (./bioqic-day.out)
 \@outlinefile=\write5
 \openout5 = `bioqic-day.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 38.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 41.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 38.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 41.
 \symnumbers=\mathgroup13
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 38.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 41.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/cmss/m/it on input line 3
-8.
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/cmss/m/it on input line 4
+1.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/bx/sl --> OT1/cmss/m/it on input line 
-38.
+41.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 38.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 38.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 38.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 38.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 38.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 38.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 38.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 38.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 38.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 41.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 38.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 38.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 41.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 38.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 41.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 38.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 38.
+(Font)                  OT1/cmss/bx/n --> OT1/cmr/bx/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 38.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/bx/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 38.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 38.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/bx/it on input line 41.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 38.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 38.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 41.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 41.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 3
-8.
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 4
+1.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/bx/it --> OT1/mathkerncmss/m/sl on input line 
-38.
+41.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 38.
+ut line 41.
 
 (/net/TeXLive/2017/texmf-dist/tex/latex/beamer/translator/dicts/translator-basi
 c-dictionary/translator-basic-dictionary-English.dict
@@ -1750,21 +1750,21 @@ rem-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 ) (./bioqic-day.nav)
 (./title.tex
-<Images/AFG.png, id=28, 317.5062pt x 80.2197pt>
+<Images/AFG.png, id=36, 317.5062pt x 80.2197pt>
 File: Images/AFG.png Graphic file (type png)
 <use Images/AFG.png>
 Package pdftex.def Info: Images/AFG.png  used on input line 21. on input line 2
 1.
 Package pdftex.def Info: Requested size: 101.35213pt x 25.6073pt on input line 
 21.
-<Images/BIOQIC-Logo.png, id=30, 287.0725pt x 104.39pt>
+<Images/BIOQIC-Logo.png, id=38, 287.0725pt x 104.39pt>
 File: Images/BIOQIC-Logo.png Graphic file (type png)
 <use Images/BIOQIC-Logo.png>
 Package pdftex.def Info: Images/BIOQIC-Logo.png  used on input line 21. on inpu
 t line 21.
 Package pdftex.def Info: Requested size: 70.4188pt x 25.6073pt on input line 21
 .
-<Images/TU_logo.pdf, id=31, pagebox=cropbox, 4742.41782pt x 3529.24529pt>
+<Images/TU_logo.pdf, id=39, pagebox=cropbox, 4742.41782pt x 3529.24529pt>
 File: Images/TU_logo.pdf Graphic file (type pdf)
 <use Images/TU_logo.pdf>
 Package pdftex.def Info: Images/TU_logo.pdf  used on input line 21. on input li
@@ -1795,11 +1795,6 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 33.
 (/net/TeXLive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 33.
-
-(/net/TeXLive/2017/texmf-dist/tex/latex/jknapltx/ursfs.fd
-File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-)
 LaTeX Font Info:    Try loading font information for OT1+mathkerncmss on input 
 line 33.
 
@@ -1807,12 +1802,17 @@ line 33.
 File: ot1mathkerncmss.fd 2013/03/27 Fontinst v1.933 font definitions for OT1/ma
 thkerncmss.
 )
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 33.
+
+(/net/TeXLive/2017/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+)
 LaTeX Font Info:    Try loading font information for U+wasy on input line 33.
 
 (/net/TeXLive/2017/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
 )
-<Images/Elasto-Tissue.pdf, id=56, pagebox=cropbox, 337.58817pt x 373.01465pt>
+<Images/Elasto-Tissue.pdf, id=68, pagebox=cropbox, 337.58817pt x 373.01465pt>
 File: Images/Elasto-Tissue.pdf Graphic file (type pdf)
 <use Images/Elasto-Tissue.pdf>
 Package pdftex.def Info: Images/Elasto-Tissue.pdf  used on input line 33. on in
@@ -1903,7 +1903,7 @@ Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 3
  [8
 
 ]
-<Images/experiment.jpg, id=220, 308.352pt x 140.2038pt>
+<Images/experiment.jpg, id=232, 308.352pt x 140.2038pt>
 File: Images/experiment.jpg Graphic file (type jpg)
 <use Images/experiment.jpg>
 Package pdftex.def Info: Images/experiment.jpg  used on input line 48. on input
@@ -1951,32 +1951,213 @@ Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 4
 ]
 File: Images/TU_logo.pdf Graphic file (type pdf)
 <use Images/TU_logo.pdf>
-Package pdftex.def Info: Images/TU_logo.pdf  used on input line 67. on input li
-ne 67.
-Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 6
-7.
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 72. on input li
+ne 72.
+Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 7
+2.
 
 [12
-
-] [13
 
 ]
 File: Images/TU_logo.pdf Graphic file (type pdf)
 <use Images/TU_logo.pdf>
-Package pdftex.def Info: Images/TU_logo.pdf  used on input line 117. on input l
-ine 117.
-Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 1
-17.
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 72. on input li
+ne 72.
+Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 7
+2.
+ [13
+
+]
+File: Images/TU_logo.pdf Graphic file (type pdf)
+<use Images/TU_logo.pdf>
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 72. on input li
+ne 72.
+Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 7
+2.
  [14
 
 ]
 File: Images/TU_logo.pdf Graphic file (type pdf)
 <use Images/TU_logo.pdf>
-Package pdftex.def Info: Images/TU_logo.pdf  used on input line 136. on input l
-ine 136.
-Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 1
-36.
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 72. on input li
+ne 72.
+Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 7
+2.
  [15
+
+]
+File: Images/TU_logo.pdf Graphic file (type pdf)
+<use Images/TU_logo.pdf>
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 72. on input li
+ne 72.
+Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 7
+2.
+ [16
+
+]
+<Images/noisyBrain.png, id=289, 83.3514pt x 84.7968pt>
+File: Images/noisyBrain.png Graphic file (type png)
+<use Images/noisyBrain.png>
+Package pdftex.def Info: Images/noisyBrain.png  used on input line 82. on input
+ line 82.
+Package pdftex.def Info: Requested size: 171.14764pt x 174.13081pt on input lin
+e 82.
+File: Images/TU_logo.pdf Graphic file (type pdf)
+<use Images/TU_logo.pdf>
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 82. on input li
+ne 82.
+Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 8
+2.
+ [17
+
+ <./Images/noisyBrain.png>]
+<Images/Daubechies.png, id=297, 361.35pt x 252.945pt>
+File: Images/Daubechies.png Graphic file (type png)
+<use Images/Daubechies.png>
+Package pdftex.def Info: Images/Daubechies.png  used on input line 108. on inpu
+t line 108.
+Package pdftex.def Info: Requested size: 171.14764pt x 119.80275pt on input lin
+e 108.
+File: Images/TU_logo.pdf Graphic file (type pdf)
+<use Images/TU_logo.pdf>
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 108. on input l
+ine 108.
+Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 1
+08.
+ [18
+
+ <./Images/Daubechies.png (PNG copy)>]
+File: Images/Daubechies.png Graphic file (type png)
+<use Images/Daubechies.png>
+Package pdftex.def Info: Images/Daubechies.png  used on input line 108. on inpu
+t line 108.
+Package pdftex.def Info: Requested size: 171.14764pt x 119.80275pt on input lin
+e 108.
+File: Images/TU_logo.pdf Graphic file (type pdf)
+<use Images/TU_logo.pdf>
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 108. on input l
+ine 108.
+Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 1
+08.
+ [19
+
+]
+File: Images/Daubechies.png Graphic file (type png)
+<use Images/Daubechies.png>
+Package pdftex.def Info: Images/Daubechies.png  used on input line 108. on inpu
+t line 108.
+Package pdftex.def Info: Requested size: 171.14764pt x 119.80275pt on input lin
+e 108.
+File: Images/TU_logo.pdf Graphic file (type pdf)
+<use Images/TU_logo.pdf>
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 108. on input l
+ine 108.
+Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 1
+08.
+ [20
+
+]
+File: Images/Daubechies.png Graphic file (type png)
+<use Images/Daubechies.png>
+Package pdftex.def Info: Images/Daubechies.png  used on input line 108. on inpu
+t line 108.
+Package pdftex.def Info: Requested size: 171.14764pt x 119.80275pt on input lin
+e 108.
+File: Images/TU_logo.pdf Graphic file (type pdf)
+<use Images/TU_logo.pdf>
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 108. on input l
+ine 108.
+Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 1
+08.
+ [21
+
+]
+<Images/shearlet.jpeg, id=324, 584.1825pt x 263.98625pt>
+File: Images/shearlet.jpeg Graphic file (type jpg)
+<use Images/shearlet.jpeg>
+Package pdftex.def Info: Images/shearlet.jpeg  used on input line 108. on input
+ line 108.
+Package pdftex.def Info: Requested size: 205.37926pt x 92.80743pt on input line
+ 108.
+File: Images/TU_logo.pdf Graphic file (type pdf)
+<use Images/TU_logo.pdf>
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 108. on input l
+ine 108.
+Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 1
+08.
+ [22
+
+ <./Images/shearlet.jpeg>] [23
+
+]
+<Images/waveDenoising.pdf, id=338, pagebox=cropbox, 518.14783pt x 444.06534pt>
+File: Images/waveDenoising.pdf Graphic file (type pdf)
+<use Images/waveDenoising.pdf>
+Package pdftex.def Info: Images/waveDenoising.pdf  used on input line 177. on i
+nput line 177.
+Package pdftex.def Info: Requested size: 239.60567pt x 205.34988pt on input lin
+e 177.
+ [24
+
+ <./Images/waveDenoising.pdf>]
+<Images/littleSpikes.pdf, id=360, pagebox=cropbox, 903.10641pt x 562.80307pt>
+File: Images/littleSpikes.pdf Graphic file (type pdf)
+<use Images/littleSpikes.pdf>
+Package pdftex.def Info: Images/littleSpikes.pdf  used on input line 185. on in
+put line 185.
+Package pdftex.def Info: Requested size: 273.83728pt x 170.64563pt on input lin
+e 185.
+ [25
+
+ <./Images/littleSpikes.pdf>]
+<Images/muCorrupted.pdf, id=376, pagebox=cropbox, 1208.45888pt x 764.61465pt>
+File: Images/muCorrupted.pdf Graphic file (type pdf)
+<use Images/muCorrupted.pdf>
+Package pdftex.def Info: Images/muCorrupted.pdf  used on input line 193. on inp
+ut line 193.
+Package pdftex.def Info: Requested size: 273.83728pt x 173.2559pt on input line
+ 193.
+ [26
+
+ <./Images/muCorrupted.pdf>]
+<Images/littleSpikesClose.pdf, id=391, pagebox=cropbox, 903.10641pt x 562.80307
+pt>
+File: Images/littleSpikesClose.pdf Graphic file (type pdf)
+<use Images/littleSpikesClose.pdf>
+Package pdftex.def Info: Images/littleSpikesClose.pdf  used on input line 200. 
+on input line 200.
+Package pdftex.def Info: Requested size: 273.83728pt x 170.64563pt on input lin
+e 200.
+ [27
+
+ <./Images/littleSpikesClose.pdf>]
+<Images/derivative.pdf, id=400, pagebox=cropbox, 1225.85431pt x 764.61465pt>
+File: Images/derivative.pdf Graphic file (type pdf)
+<use Images/derivative.pdf>
+Package pdftex.def Info: Images/derivative.pdf  used on input line 207. on inpu
+t line 207.
+Package pdftex.def Info: Requested size: 273.83728pt x 170.79416pt on input lin
+e 207.
+ [28
+
+ <./Images/derivative.pdf>]
+File: Images/TU_logo.pdf Graphic file (type pdf)
+<use Images/TU_logo.pdf>
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 227. on input l
+ine 227.
+Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 2
+27.
+
+[29
+
+]
+File: Images/TU_logo.pdf Graphic file (type pdf)
+<use Images/TU_logo.pdf>
+Package pdftex.def Info: Images/TU_logo.pdf  used on input line 246. on input l
+ine 246.
+Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 2
+46.
+ [30
 
 ])
 \tf@nav=\write6
@@ -1988,43 +2169,38 @@ Package pdftex.def Info: Requested size: 20.98537pt x 15.6491pt on input line 1
 \tf@snm=\write8
 \openout8 = `bioqic-day.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 43.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 43.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 46.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 46.
  (./bioqic-day.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 43.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 43.
-
-
-Package rerunfilecheck Warning: File `bioqic-day.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `bioqic-day.out':
-(rerunfilecheck)             Before: 6CD4261F73E23304253498FD15BD952F;125
-(rerunfilecheck)             After:  BBEA76C87AB4A262171421FFF8F46EC5;282.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 46.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 46.
+Package rerunfilecheck Info: File `bioqic-day.out' has not changed.
+(rerunfilecheck)             Checksum: B6284E595A415220956BF8E2F97ABAE1;227.
  ) 
 Here is how much of TeX's memory you used:
- 33533 strings out of 494166
- 682270 string characters out of 6165041
- 785463 words of memory out of 5000000
- 36181 multiletter control sequences out of 15000+600000
- 547626 words of font info for 79 fonts, out of 8000000 for 9000
+ 33688 strings out of 494166
+ 684948 string characters out of 6165041
+ 786688 words of memory out of 5000000
+ 36293 multiletter control sequences out of 15000+600000
+ 554704 words of font info for 102 fonts, out of 8000000 for 9000
  523 hyphenation exceptions out of 8191
  56i,15n,70p,10416b,758s stack positions out of 5000i,500n,10000p,200000b,80000s
 </net/TeXLive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></net
 /TeXLive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></net/TeXLiv
-e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></net/TeXLive/2017/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></net/TeXLive/2017/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmss8.pfb></net/TeXLive/2017/texmf-dist/font
-s/type1/public/amsfonts/cm/cmssbx10.pfb></net/TeXLive/2017/texmf-dist/fonts/typ
-e1/public/amsfonts/cm/cmssi10.pfb></net/TeXLive/2017/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmssi8.pfb></net/TeXLive/2017/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmsy10.pfb></net/TeXLive/2017/texmf-dist/fonts/type1/public/amsfonts/s
-ymbols/msam10.pfb>
-Output written on bioqic-day.pdf (15 pages, 1806625 bytes).
+e/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></net/TeXLive/2017
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></net/TeXLive/2017/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></net/TeXLive/2017/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmss8.pfb></net/TeXLive/2017/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmssbx10.pfb></net/TeXLive/2017/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmssi10.pfb></net/TeXLive/2017/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmssi8.pfb></net/TeXLive/2017/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy10.pfb></net/TeXLive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+6.pfb></net/TeXLive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></
+net/TeXLive/2017/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on bioqic-day.pdf (30 pages, 2684060 bytes).
 PDF statistics:
- 315 PDF objects out of 1000 (max. 8388607)
- 222 compressed objects within 3 object streams
- 36 named destinations out of 1000 (max. 500000)
- 108 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 484 PDF objects out of 1000 (max. 8388607)
+ 352 compressed objects within 4 object streams
+ 65 named destinations out of 1000 (max. 500000)
+ 164 words of extra memory for PDF output out of 10000 (max. 10000000)
 

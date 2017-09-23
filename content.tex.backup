@@ -53,20 +53,19 @@
 
 
 \begin{itemize}
- \item<2-> Navier-Lam\'{e} equation:
+ \item Navier-Lam\'{e} equation:
  \begin{equation}
  \sum_ j \partial_j \kl{ \mu \kl{ \partial_j u_i + \partial_i u_j}} + \partial_i \kl{\lambda \partial_j u_j} = \rho \ddot{u}_i
 \end{equation}
-\item<3-> time harmonic and small bulk wave
+\item time harmonic and small bulk wave
  \begin{equation}
  \nabla(\bm{\mu}  \cdot \epsilon) = -\rho \omega^2 \mathbf{u} \quad \text{with} \quad \epsilon_{ij} = \partial_j u_i + \partial_i u_j
 \end{equation}
- \item<4-> discretize the equation
+ \item discretize the equation
  \begin{equation}
  \ekl{\nabla\cdot\epsilon + \epsilon\nabla} \bm{\mu} = -\rho \omega^2 \mathbf{u}
 \end{equation}
- \item<5-> matrix inversion relies on correct knowledge of $\mathbf{u}^{'}$, and $\mathbf{u}^{''}$\\
- $\rightarrow$ noise can completely screw up the derivatives
+ \item matrix inversion relies on correct knowledge of $\mathbf{u}^{'}$, and $\mathbf{u}^{''}$
 \end{itemize}
 
 \end{frame}
@@ -82,28 +81,16 @@
 \end{frame}
 
 
-\begin{frame}{Wavelet Denoising}
+\begin{frame}{Noisy displacement field}
 
 \begin{itemize}
- \item<2-> $\mathbf{u}(\mathbf{x},t)$ is piece-wise (very) smooth $\rightarrow$ sparse in wavelet domain
- \item<4-> in 2d: anisotropic structure $\rightarrow$ shearlets
+ \item $\mathbf{u}(\mathbf{x},t)$ is piece-wise (very) smooth $\rightarrow$ sparse in wavelet domain
+ \item in 2d: shearlets
 \end{itemize}
 
-\only<1-4>{
-\visible<3->{
-\begin{figure}
-\includegraphics[width=0.5\textwidth]{Images/Daubechies.png}
-\centering\end{figure}
-}
-}
 
 
-\only<5->{
-\vspace{0.95cm}
-\begin{figure}
-\includegraphics[width=0.6\textwidth]{Images/shearlet.jpeg}
-\centering\end{figure}
-}
+
 
 \end{frame}
 
@@ -114,6 +101,7 @@
   u^* &= \underset{u}{\text{argmin}}~\nkl{u_{\text{meas}} - u}^2_2 + \lambda \nkl{W u}_0 \\
       &= W^{\dagger} H\kl{W u_{\text{meas}}; \lambda}
  \end{align}
+
  
 \end{frame}
 
